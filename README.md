@@ -9,10 +9,6 @@ This repository contains a cloud architecture design (AWS-focused) for a web app
 - **Database** — PostgreSQL (Amazon RDS) with Multi-AZ & Read Replicas
 - **CI/CD** — GitHub Actions pipeline to build, test, and deploy to environments
 
-Files included:
-- `DevOps_Design_Diagram_and_Explanation.pdf` — Multi-page PDF with diagrams and detailed explanations (this file).
-- `README.md` — This file.
-
 ---
 
 ## 1) UI (Frontend) Design
